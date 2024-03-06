@@ -145,11 +145,3 @@ SELECT 100 as Zahlen, 'Hallo' as Wörter
 UNION
 SELECT 5, 'Tschüss'
 ```
-<table>
-	<tr>
-		<td>Test</td>
-		<td>Test</td>
-	</tr>
-</table>
-
-
