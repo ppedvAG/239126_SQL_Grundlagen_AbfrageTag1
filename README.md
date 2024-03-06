@@ -25,6 +25,8 @@ WHERE Country = 'Germany'
 > (>= größer gleich)
 > (< kleiner gleich)
 > (<= kleiner gleich)
-> = exakte Suche
-> != ungleich
-> <> ungleich
+> (= exakte Suche)
+> (!= ungleich)
+> (<> ungleich)
+---
+
