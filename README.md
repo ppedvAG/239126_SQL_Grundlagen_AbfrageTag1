@@ -5,3 +5,13 @@
 ```
 SELECT * FROM Customers
 ```
+* DISTINCT
+```
+SELECT DISTINCT Country FROM Customers
+```
+* Order By
+```
+SELECT Freight FROM Orders
+ORDER BY Freight DESC
+```
+
