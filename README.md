@@ -14,4 +14,17 @@ SELECT DISTINCT Country FROM Customers
 SELECT Freight FROM Orders
 ORDER BY Freight DESC
 ```
-
+* WHERE
+```
+SELECT * FROM Customers
+WHERE Country = 'Germany'
+```
+>[!NOTE]
+> Vergleichsoperatoren
+> (> größer als)
+> (>= größer gleich)
+> (< kleiner gleich)
+> (<= kleiner gleich)
+> = exakte Suche
+> != ungleich
+> <> ungleich
